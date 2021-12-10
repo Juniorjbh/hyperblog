@@ -1,5 +1,9 @@
-Junior josé bustillo herman
+Junior josé bustillo herman.
 
-24 años de edad
+24 años de edad.
 
-A dia de hoy esta estudiando programacion con python
+Estudiante de programacion.
+
+Le gusta el futbol y el baloncesto.
+
+Hoy tiene una relación de más de 9 años.
