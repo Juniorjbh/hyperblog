@@ -6,9 +6,13 @@ Estudiante de programacion.
 
 Master 1
 
+<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
+=======
+Master 2
+>>>>>>> cfbad6e (Master 2)
 
 Le gusta el futbol y el baloncesto.
 
